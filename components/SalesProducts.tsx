@@ -131,7 +131,7 @@ const copy = {
 export default function SalesProducts() {
     const { lang } = useLanguage();
     const { addToCart, cart } = useCart();
-    const currentLang = lang === "ky" || lang === "en" ? lang : "ru";
+    const currentLang: keyof typeof copy = lang === "ky" || lang === "en" ? lang : "ru";
     const t = copy[currentLang];
 
     const initialColors = useMemo(() => {

@@ -64,7 +64,7 @@ const copy = {
 const HeroSection = () => {
     const { lang } = useLanguage();
     const reduceMotion = useReducedMotion();
-    const currentLang = lang === "ky" || lang === "en" ? lang : "ru";
+    const currentLang: keyof typeof copy = lang === "ky" || lang === "en" ? lang : "ru";
     const t = copy[currentLang];
 
     const [index, setIndex] = useState(0);

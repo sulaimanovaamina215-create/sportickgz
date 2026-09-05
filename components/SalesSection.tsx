@@ -35,7 +35,7 @@ const copy = {
 
 export default function SalesSection() {
     const { lang } = useLanguage();
-    const currentLang = lang === "ky" || lang === "en" ? lang : "ru";
+    const currentLang: keyof typeof copy = lang === "ky" || lang === "en" ? lang : "ru";
     const t = copy[currentLang];
 
     return (

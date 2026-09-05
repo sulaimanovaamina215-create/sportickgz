@@ -10,7 +10,7 @@ import { useLanguage } from "@/context/LanguageContext";
 export default function SalesPage() {
     const router = useRouter();
     const { lang } = useLanguage();
-    const currentLang = lang === "ky" || lang === "en" ? lang : "ru";
+    const currentLang: "ky" | "ru" | "en" = lang === "ky" || lang === "en" ? lang : "ru";
 
     const setActiveTab = (tab: string | null) => {
         if (!tab) {
