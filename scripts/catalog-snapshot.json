@@ -1,0 +1,1568 @@
+{
+  "ky": [
+    {
+      "id": 1,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/forma1.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/forma2.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/forma3.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/forma4.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/forma5.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/forma6.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/forma7.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/forma8.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/forma9.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/forma10.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/forma11.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/forma12.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/img1.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/img3.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Формалар",
+      "title": "",
+      "photo": "/dem/forma/img6.png",
+      "price": "1000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "Жарым сыдырма",
+      "title": "Машыгуу кийими",
+      "photo": "/half/h1.png",
+      "price": "3000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Жарым сыдырма",
+      "title": "Машыгуу кийими",
+      "photo": "/half/h2.png",
+      "price": "3000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "Жарым сыдырма",
+      "title": "Машыгуу кийими",
+      "photo": "/half/h3.png",
+      "price": "3000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "Жарым сыдырма",
+      "title": "Машыгуу кийими",
+      "photo": "/half/h4.png",
+      "price": "3000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Жарым сыдырма",
+      "title": "Машыгуу кийими",
+      "photo": "/half/h5.png",
+      "price": "3000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 21,
+      "category": "Шамал өткөрбөс күрмө",
+      "title": "Ветровка",
+      "photo": "/raincoat/r1.png",
+      "price": "3000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Шамал өткөрбөс күрмө",
+      "title": "Ветровка",
+      "photo": "/raincoat/r2.png",
+      "price": "3000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Шамал өткөрбөс күрмө",
+      "title": "Ветровка",
+      "photo": "/raincoat/r3.png",
+      "price": "3000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "Шамал өткөрбөс күрмө",
+      "title": "Ветровка",
+      "photo": "/raincoat/r4.png",
+      "price": "3000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 25,
+      "category": "Шамал өткөрбөс күрмө",
+      "title": "Ветровка",
+      "photo": "/raincoat/r5.png",
+      "price": "3000с",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 26,
+      "category": "DEM гетрилери",
+      "title": "чоңдор жана балдар үчүн",
+      "photo": "/dem/n1.png",
+      "price": "200с",
+      "sizes": [
+        "Стандарт"
+      ]
+    },
+    {
+      "id": 27,
+      "category": "DEM гетрилери",
+      "title": "чоңдор жана балдар үчүн",
+      "photo": "/dem/n2.png",
+      "price": "200с",
+      "sizes": [
+        "Стандарт"
+      ]
+    },
+    {
+      "id": 28,
+      "category": "DEM гетрилери",
+      "title": "Кесүү (жазуусу жок): стандарттык",
+      "photo": "/dem/n3.png",
+      "price": "200с",
+      "sizes": [
+        "Стандарт"
+      ]
+    },
+    {
+      "id": 29,
+      "category": "DEM гетрилери",
+      "title": "Кесүү (жазуусу жок): стандарттык",
+      "photo": "/dem/n4.png",
+      "price": "200с",
+      "sizes": [
+        "Стандарт"
+      ]
+    },
+    {
+      "id": 30,
+      "category": "Сумка",
+      "title": "стандарттык",
+      "photo": "/catalog/bag/1.png",
+      "price": "3500с"
+    },
+    {
+      "id": 31,
+      "category": "Сумка",
+      "title": "стандарттык",
+      "photo": "/catalog/bag/2.png",
+      "price": "3500с"
+    },
+    {
+      "id": 32,
+      "category": "Сумка",
+      "title": "стандарттык",
+      "photo": "/catalog/bag/3.png",
+      "price": "3500с"
+    },
+    {
+      "id": 33,
+      "category": "Сумка",
+      "title": "стандарттык",
+      "photo": "/catalog/bag/4.png",
+      "price": "3500с"
+    },
+    {
+      "id": 34,
+      "category": "Сумка",
+      "title": "стандарттык",
+      "photo": "/catalog/bag/5.png",
+      "price": "3500с"
+    },
+    {
+      "id": 35,
+      "category": "Сумка",
+      "title": "стандарттык",
+      "photo": "/catalog/bag/6.png",
+      "price": "3500с"
+    },
+    {
+      "id": 36,
+      "category": "Сумка",
+      "title": "стандарттык",
+      "photo": "/catalog/bag/7.png",
+      "price": "3500с"
+    },
+    {
+      "id": 37,
+      "category": "Сумка",
+      "title": "стандарттык",
+      "photo": "/catalog/bag/8.png",
+      "price": "3500с"
+    },
+    {
+      "id": 38,
+      "category": "Сумка",
+      "title": "стандарттык",
+      "photo": "/catalog/bag/9.png",
+      "price": "3500с"
+    },
+    {
+      "id": 39,
+      "category": "Сумка",
+      "title": "стандарттык",
+      "photo": "/catalog/bag/10.png",
+      "price": "3500с"
+    },
+    {
+      "id": 44,
+      "category": "Аксессуарлар",
+      "title": "",
+      "photo": "/dem/acsessuar/m1.png",
+      "price": "350с",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    },
+    {
+      "id": 45,
+      "category": "Аксессуарлар",
+      "title": "",
+      "photo": "/dem/acsessuar/m2.png",
+      "price": "350с",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    },
+    {
+      "id": 46,
+      "category": "Аксессуарлар",
+      "title": "",
+      "photo": "/dem/acsessuar/m3.png",
+      "price": "350с",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    },
+    {
+      "id": 47,
+      "category": "Аксессуарлар",
+      "title": "",
+      "photo": "/dem/acsessuar/m4.png",
+      "price": "350с",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    },
+    {
+      "id": 48,
+      "category": "Аксессуарлар",
+      "title": "",
+      "photo": "/dem/acsessuar/m5.png",
+      "price": "350с",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    }
+  ],
+  "ru": [
+    {
+      "id": 1,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/forma1.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/forma2.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/forma3.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/forma4.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/forma5.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/forma6.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/forma7.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/forma8.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/forma9.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/forma10.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/forma11.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/forma12.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/img1.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/img3.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Формы",
+      "title": "",
+      "photo": "/dem/forma/img6.png",
+      "price": "1000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "Полузамок",
+      "title": "Тренировочная форма",
+      "photo": "/half/h1.png",
+      "price": "3000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Полузамок",
+      "title": "Тренировочная форма",
+      "photo": "/half/h2.png",
+      "price": "3000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "Полузамок",
+      "title": "Тренировочная форма",
+      "photo": "/half/h3.png",
+      "price": "3000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "Полузамок",
+      "title": "Тренировочная форма",
+      "photo": "/half/h4.png",
+      "price": "3000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Полузамок",
+      "title": "Тренировочная форма",
+      "photo": "/half/h5.png",
+      "price": "3000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 21,
+      "category": "Ветровка",
+      "title": "Дождевик",
+      "photo": "/raincoat/r1.png",
+      "price": "3000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Ветровка",
+      "title": "Дождевик",
+      "photo": "/raincoat/r2.png",
+      "price": "3000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Ветровка",
+      "title": "Дождевик",
+      "photo": "/raincoat/r3.png",
+      "price": "3000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "Ветровка",
+      "title": "Дождевик",
+      "photo": "/raincoat/r4.png",
+      "price": "3000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 25,
+      "category": "Ветровка",
+      "title": "Дождевик",
+      "photo": "/raincoat/r5.png",
+      "price": "3000р",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 26,
+      "category": "Гетры DEM",
+      "title": "взрослые,детские",
+      "photo": "/dem/n1.png",
+      "price": "200р",
+      "sizes": [
+        "Стандарт"
+      ]
+    },
+    {
+      "id": 27,
+      "category": "Гетры DEM",
+      "title": "взрослые,детские",
+      "photo": "/dem/n2.png",
+      "price": "200р",
+      "sizes": [
+        "Стандарт"
+      ]
+    },
+    {
+      "id": 28,
+      "category": "Гетры DEM",
+      "title": "Обрезка (без надписи): стандарт",
+      "photo": "/dem/n3.png",
+      "price": "200р",
+      "sizes": [
+        "Стандарт"
+      ]
+    },
+    {
+      "id": 29,
+      "category": "Гетры DEM",
+      "title": "Обрезка (без надписи): стандарт",
+      "photo": "/dem/n4.png",
+      "price": "200р",
+      "sizes": [
+        "Стандарт"
+      ]
+    },
+    {
+      "id": 30,
+      "category": "Сумка",
+      "title": "стандарт",
+      "photo": "/catalog/bag/1.png",
+      "price": "3500р"
+    },
+    {
+      "id": 31,
+      "category": "Сумка",
+      "title": "стандарт",
+      "photo": "/catalog/bag/2.png",
+      "price": "3500р"
+    },
+    {
+      "id": 32,
+      "category": "Сумка",
+      "title": "стандарт",
+      "photo": "/catalog/bag/3.png",
+      "price": "3500р"
+    },
+    {
+      "id": 33,
+      "category": "Сумка",
+      "title": "стандарт",
+      "photo": "/catalog/bag/4.png",
+      "price": "3500р"
+    },
+    {
+      "id": 34,
+      "category": "Сумка",
+      "title": "стандарт",
+      "photo": "/catalog/bag/5.png",
+      "price": "3500р"
+    },
+    {
+      "id": 35,
+      "category": "Сумка",
+      "title": "стандарт",
+      "photo": "/catalog/bag/6.png",
+      "price": "3500р"
+    },
+    {
+      "id": 36,
+      "category": "Сумка",
+      "title": "стандарт",
+      "photo": "/catalog/bag/7.png",
+      "price": "3500р"
+    },
+    {
+      "id": 37,
+      "category": "Сумка",
+      "title": "стандарт",
+      "photo": "/catalog/bag/8.png",
+      "price": "3500р"
+    },
+    {
+      "id": 38,
+      "category": "Сумка",
+      "title": "стандарт",
+      "photo": "/catalog/bag/9.png",
+      "price": "3500р"
+    },
+    {
+      "id": 39,
+      "category": "Сумка",
+      "title": "стандарт",
+      "photo": "/catalog/bag/10.png",
+      "price": "3500р"
+    },
+    {
+      "id": 44,
+      "category": "Аксессуары",
+      "title": "",
+      "photo": "/dem/acsessuar/m1.png",
+      "price": "350",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    },
+    {
+      "id": 45,
+      "category": "Аксессуары",
+      "title": "",
+      "photo": "/dem/acsessuar/m2.png",
+      "price": "350",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    },
+    {
+      "id": 46,
+      "category": "Аксессуары",
+      "title": "",
+      "photo": "/dem/acsessuar/m3.png",
+      "price": "350",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    },
+    {
+      "id": 47,
+      "category": "Аксессуары",
+      "title": "",
+      "photo": "/dem/acsessuar/m4.png",
+      "price": "350",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    },
+    {
+      "id": 48,
+      "category": "Аксессуары",
+      "title": "",
+      "photo": "/dem/acsessuar/m5.png",
+      "price": "350",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    }
+  ],
+  "en": [
+    {
+      "id": 1,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/forma1.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/forma2.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/forma3.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/forma4.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/forma5.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/forma6.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/forma7.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/forma8.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/forma9.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/forma10.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/forma11.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/forma12.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/img1.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/img3.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "Uniforms",
+      "title": "",
+      "photo": "/dem/forma/img6.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "Half-zip",
+      "title": "Training top",
+      "photo": "/half/h1.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "Half-zip",
+      "title": "Training top",
+      "photo": "/half/h2.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "Half-zip",
+      "title": "Training top",
+      "photo": "/half/h3.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "Half-zip",
+      "title": "Training top",
+      "photo": "/half/h4.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "Half-zip",
+      "title": "Training top",
+      "photo": "/half/h5.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 21,
+      "category": "Windbreaker",
+      "title": "Raincoat",
+      "photo": "/raincoat/r1.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 22,
+      "category": "Windbreaker",
+      "title": "Raincoat",
+      "photo": "/raincoat/r2.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 23,
+      "category": "Windbreaker",
+      "title": "Raincoat",
+      "photo": "/raincoat/r3.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "Windbreaker",
+      "title": "Raincoat",
+      "photo": "/raincoat/r4.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 25,
+      "category": "Windbreaker",
+      "title": "Raincoat",
+      "photo": "/raincoat/r5.png",
+      "price": "35$",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ]
+    },
+    {
+      "id": 26,
+      "category": "DEM football socks",
+      "title": "adults and kids",
+      "photo": "/dem/n1.png",
+      "price": "3$",
+      "sizes": [
+        "Standard"
+      ]
+    },
+    {
+      "id": 27,
+      "category": "DEM football socks",
+      "title": "adults and kids",
+      "photo": "/dem/n2.png",
+      "price": "3$",
+      "sizes": [
+        "Standard"
+      ]
+    },
+    {
+      "id": 28,
+      "category": "DEM football socks",
+      "title": "Crop (no text): standard",
+      "photo": "/dem/n3.png",
+      "price": "3$",
+      "sizes": [
+        "Standard"
+      ]
+    },
+    {
+      "id": 29,
+      "category": "DEM football socks",
+      "title": "Crop (no text): standard",
+      "photo": "/dem/n4.png",
+      "price": "3$",
+      "sizes": [
+        "Standard"
+      ]
+    },
+    {
+      "id": 30,
+      "category": "Bag",
+      "title": "standard",
+      "photo": "/catalog/bag/1.png",
+      "price": "40$"
+    },
+    {
+      "id": 31,
+      "category": "Bag",
+      "title": "standard",
+      "photo": "/catalog/bag/2.png",
+      "price": "40$"
+    },
+    {
+      "id": 32,
+      "category": "Bag",
+      "title": "standard",
+      "photo": "/catalog/bag/3.png",
+      "price": "40$"
+    },
+    {
+      "id": 33,
+      "category": "Bag",
+      "title": "standard",
+      "photo": "/catalog/bag/4.png",
+      "price": "40$"
+    },
+    {
+      "id": 34,
+      "category": "Bag",
+      "title": "standard",
+      "photo": "/catalog/bag/5.png",
+      "price": "40$"
+    },
+    {
+      "id": 35,
+      "category": "Bag",
+      "title": "standard",
+      "photo": "/catalog/bag/6.png",
+      "price": "40$"
+    },
+    {
+      "id": 36,
+      "category": "Bag",
+      "title": "standard",
+      "photo": "/catalog/bag/7.png",
+      "price": "40$"
+    },
+    {
+      "id": 37,
+      "category": "Bag",
+      "title": "standard",
+      "photo": "/catalog/bag/8.png",
+      "price": "40$"
+    },
+    {
+      "id": 38,
+      "category": "Bag",
+      "title": "standard",
+      "photo": "/catalog/bag/9.png",
+      "price": "40$"
+    },
+    {
+      "id": 39,
+      "category": "Bag",
+      "title": "standard",
+      "photo": "/catalog/bag/10.png",
+      "price": "40$"
+    },
+    {
+      "id": 44,
+      "category": "Accessories",
+      "title": "",
+      "photo": "/dem/acsessuar/m1.png",
+      "price": "4$",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    },
+    {
+      "id": 45,
+      "category": "Accessories",
+      "title": "",
+      "photo": "/dem/acsessuar/m2.png",
+      "price": "4$",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    },
+    {
+      "id": 46,
+      "category": "Accessories",
+      "title": "",
+      "photo": "/dem/acsessuar/m3.png",
+      "price": "4$",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    },
+    {
+      "id": 47,
+      "category": "Accessories",
+      "title": "",
+      "photo": "/dem/acsessuar/m4.png",
+      "price": "4$",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    },
+    {
+      "id": 48,
+      "category": "Accessories",
+      "title": "",
+      "photo": "/dem/acsessuar/m5.png",
+      "price": "4$",
+      "sizes": [
+        "M",
+        "XL",
+        "3XL"
+      ]
+    }
+  ]
+}
