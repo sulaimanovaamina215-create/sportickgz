@@ -1,7 +1,16 @@
 import './globals.css';
-import type { Viewport } from 'next';
+import type { Metadata, Viewport } from 'next';
 import { LanguageProvider } from '@/context/LanguageContext';
 import { CartProvider } from '@/context/CartContext';
+
+export const metadata: Metadata = {
+    metadataBase: new URL('https://sportic.kg'),
+    title: 'SPORTICKGZ — спортивная экипировка',
+    description: 'Спортивная экипировка оптом и в розницу по Кыргызстану.',
+    alternates: {
+        canonical: '/',
+    },
+};
 
 export const viewport: Viewport = {
     width: 'device-width',
