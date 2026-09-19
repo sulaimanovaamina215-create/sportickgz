@@ -2,6 +2,14 @@ const FORMA_FRONT_BACK = new Set([
     2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25,
 ]);
 
+// 3 окшош майка + шорт гана 1200 сом, калган футболка/үстү форма — 800
+const FORMA_MAIKA_SHORTS = new Set([29, 30, 31]);
+
+const formaCatalogPrice = (folderName: string, imgNum: number, fallback: string) => {
+    if (folderName !== "fudbol/forma") return fallback;
+    return FORMA_MAIKA_SHORTS.has(imgNum) ? "1200" : "800";
+};
+
 // Формалар жана катардагы товарлар үчүн функция
 const generateSimpleItems = (categoryName: string, subCat: string, folderName: string, startId: number, count: number = 40, price: string = "800", sizes: string[] = ["S", "M", "L", "XL", "2XL"], ext: string = "png", displayTitle?: string) => {
     if (folderName === "fudbol/forma/klubforma") {
@@ -48,7 +56,7 @@ const generateSimpleItems = (categoryName: string, subCat: string, folderName: s
         return {
             id,
             title: displayTitle || `${subCat}`,
-            price: price,
+            price: formaCatalogPrice(folderName, imgNum, price),
             sizes: sizes,
             photo: isKitSheet ? `/catalog/fudbol/forma/hover/${imgNum}-front.jpg` : photoPath,
             hoverPhoto: isKitSheet ? `/catalog/fudbol/forma/hover/${imgNum}-back.jpg` : photoPath,
@@ -151,7 +159,7 @@ const generateBoxingGloves = (lang: CatalogLang) =>
 export const catalogData: any = {
     ky: [
         // 1. ФУТБОЛ - Форма (1 - 40)
-        ...generateSimpleItems("Футбол", "Форма", "fudbol/forma", 1, 40, "1200", ["S", "M", "L", "XL", "2XL"], "png", "Футбол формасы"),
+        ...generateSimpleItems("Футбол", "Форма", "fudbol/forma", 1, 40, "800", ["S", "M", "L", "XL", "2XL"], "png", "Футбол формасы"),
         // 2. ФУТБОЛ - Клубные формы (41 - 81)
         ...generateSimpleItems("Футбол", "Клубные формы", "fudbol/forma/klubforma", 41, 41, "500", ["18", "20", "22", "24", "26", "28", "30p"], "jpg", "Клубдук формалар"),
         // 4. ВОЛЕЙБОЛ - Форма (82 - 121); биринчи сүрөт өзүнчө — футбол формаларына тийбейт
@@ -264,7 +272,7 @@ export const catalogData: any = {
     ],
 
     ru: [
-        ...generateSimpleItems("Футбол", "Форма", "fudbol/forma", 1, 40, "1200", ["S", "M", "L", "XL", "2XL"], "png", "Футбольная форма"),
+        ...generateSimpleItems("Футбол", "Форма", "fudbol/forma", 1, 40, "800", ["S", "M", "L", "XL", "2XL"], "png", "Футбольная форма"),
         ...generateSimpleItems("Футбол", "Клубные формы", "fudbol/forma/klubforma", 41, 41, "500", ["18", "20", "22", "24", "26", "28", "30p"], "jpg", "Клубная форма"),
         ...generateSimpleItems("Волейбол", "Форма", "fudbol/forma", 82, 40, "800", ["S", "M", "L", "XL", "2XL"], "png", "Волейбольная форма").map(
             (item, index) =>
@@ -360,7 +368,7 @@ export const catalogData: any = {
     ],
 
     en: [
-        ...generateSimpleItems("Футбол", "Форма", "fudbol/forma", 1, 40, "1200", ["S", "M", "L", "XL", "2XL"], "png", "Football Kit"),
+        ...generateSimpleItems("Футбол", "Форма", "fudbol/forma", 1, 40, "800", ["S", "M", "L", "XL", "2XL"], "png", "Football Kit"),
         ...generateSimpleItems("Футбол", "Клубные формы", "fudbol/forma/klubforma", 41, 41, "500", ["18", "20", "22", "24", "26", "28", "30p"], "jpg", "Club Kit"),
         ...generateSimpleItems("Волейбол", "Форма", "fudbol/forma", 82, 40, "800", ["S", "M", "L", "XL", "2XL"], "png", "Volleyball Kit").map(
             (item, index) =>
