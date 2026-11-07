@@ -8,6 +8,7 @@ import { shoesData } from "@/data/shoesData";
 import { fitnessData } from "@/data/fitnessData";
 import { fudbolAccessories } from "@/data/fudbolAccessories";
 import { extraCatalog } from "@/data/extraCatalog";
+import { volleyballHref } from "@/data/volleyballBalls";
 import { formatPrice } from "@/lib/currency";
 import ProductZoomModal, { type ZoomAnchor } from "@/components/ProductZoomModal";
 import ClubKitPromo from "@/components/ClubKitPromo";
@@ -519,7 +520,11 @@ const WholesaleCard = ({ item, onAdd, isAdded, t, lang }: any) => {
                 </div>
                 )}
 
-                <h4 className="text-sm font-semibold text-slate-900 line-clamp-2 min-h-[40px] mb-2">{item.title}</h4>
+                {volleyballHref(item.id) ? (
+                    <a href={volleyballHref(item.id)!} className="text-sm font-semibold text-slate-900 line-clamp-2 min-h-[40px] mb-2 block hover:text-blue-700">{item.title}</a>
+                ) : (
+                    <h4 className="text-sm font-semibold text-slate-900 line-clamp-2 min-h-[40px] mb-2">{item.title}</h4>
+                )}
 
                 {/* РАЗМЕРЛЕРДИ ЧЫГАРУУ ЖЕРИ */}
                 {item.sizes && item.sizes.length > 0 && (

@@ -6,6 +6,7 @@ import Footer from "@/components/Footer";
 import SalesProducts from "@/components/SalesProducts";
 import ClubKitPromo from "@/components/ClubKitPromo";
 import { useLanguage } from "@/context/LanguageContext";
+import { pathForTab } from "@/lib/nav";
 
 export default function SalesPage() {
     const router = useRouter();
@@ -13,11 +14,7 @@ export default function SalesPage() {
     const currentLang: "ky" | "ru" | "en" = lang === "ky" || lang === "en" ? lang : "ru";
 
     const setActiveTab = (tab: string | null) => {
-        if (!tab) {
-            router.push("/");
-            return;
-        }
-        router.push(`/?tab=${tab}`);
+        router.push(pathForTab(tab));
     };
 
     return (

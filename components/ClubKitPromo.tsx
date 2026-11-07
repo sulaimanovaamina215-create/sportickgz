@@ -39,7 +39,7 @@ const promoSlides = [
 ];
 
 export const CLUB_KIT_CATALOG_HREF =
-    "/?tab=wholesale&sport=%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB&sub=%D0%9A%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B5%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B";
+    "/catalog?sport=%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB&sub=%D0%9A%D0%BB%D1%83%D0%B1%D0%BD%D1%8B%D0%B5%20%D1%84%D0%BE%D1%80%D0%BC%D1%8B";
 
 type Lang = "ky" | "ru" | "en";
 

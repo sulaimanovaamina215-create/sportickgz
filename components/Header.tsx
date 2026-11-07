@@ -1,8 +1,10 @@
 "use client";
 import { useCart } from "@/context/CartContext";
 import React, { useState } from 'react';
+import { usePathname } from "next/navigation";
 import { useLanguage } from '@/context/LanguageContext';
 import { ShoppingCart } from 'lucide-react';
+import { tabFromPath } from "@/lib/nav";
 
 interface HeaderProps {
     activeTab: string | null;
@@ -20,6 +22,8 @@ const Header: React.FC<HeaderProps> = ({ activeTab, setActiveTab }) => {
     const t = translations[lang as keyof typeof translations];
     const [isOpen, setIsOpen] = useState(false);
     const { cart } = useCart();
+    const pathname = usePathname();
+    const currentTab = tabFromPath(pathname) ?? activeTab;
     const totalItems = cart.reduce((sum, item) => sum + item.quantity, 0);
 
     const handleNav = (tab: string | null) => {
@@ -40,7 +44,7 @@ const Header: React.FC<HeaderProps> = ({ activeTab, setActiveTab }) => {
 
                 <nav className="hidden md:flex gap-2 text-white items-center">
                     {['about', 'catalog', 'wholesale', 'contacts'].map((tab) => (
-                        <button key={tab} onClick={() => handleNav(tab)} className={`px-4 py-2 text-base font-bold uppercase italic transition-all duration-300 ${activeTab === tab ? 'border border-white rounded-lg text-white' : 'text-white/85 hover:text-white'}`}>
+                        <button key={tab} onClick={() => handleNav(tab)} className={`px-4 py-2 text-base font-bold uppercase italic transition-all duration-300 ${currentTab === tab ? 'border border-white rounded-lg text-white' : 'text-white/85 hover:text-white'}`}>
                             {t[tab as keyof typeof t]}
                         </button>
                     ))}
@@ -69,7 +73,7 @@ const Header: React.FC<HeaderProps> = ({ activeTab, setActiveTab }) => {
             {isOpen && (
                 <div className="md:hidden mt-5 flex flex-col gap-2 text-white pb-5 border-t border-white/10 pt-5 text-center font-bold uppercase italic text-base">
                     {['about', 'catalog', 'wholesale', 'contacts'].map((tab) => (
-                        <button key={tab} onClick={() => handleNav(tab)} className={`py-2 px-4 rounded-md transition-all ${activeTab === tab ? 'bg-gray-800' : 'hover:bg-gray-800/50'}`}>
+                        <button key={tab} onClick={() => handleNav(tab)} className={`py-2 px-4 rounded-md transition-all ${currentTab === tab ? 'bg-gray-800' : 'hover:bg-gray-800/50'}`}>
                             {t[tab as keyof typeof t]}
                         </button>
                     ))}
