@@ -613,38 +613,6 @@ const volleyballShoeExtraProducts = (startId: number, lang: Lang) =>
         };
     });
 
-const volleyballExtraBalls = [
-    {
-        file: "catalog/voleibol.basketbol/top/photo_5426881214078983076_y.jpg",
-        titles: {
-            ky: "Волейбол тобу MIKASA оригинал V200W",
-            ru: "Волейбольный мяч MIKASA оригинал V200W",
-            en: "Mikasa original V200W volleyball",
-        },
-        price: "9500",
-    },
-    {
-        file: "catalog/voleibol.basketbol/top/photo_5426881214078983078_y.jpg",
-        titles: {
-            ky: "Волейбол тобу MIKASA Official",
-            ru: "Волейбольный мяч MIKASA Official",
-            en: "Mikasa Official volleyball",
-        },
-        price: "2500",
-    },
-    {
-        file: "catalog/voleibol.basketbol/top/photo_5426881214078983081_y.jpg",
-        titles: {
-            ky: "Волейбол тобу MOLTEN FIV3",
-            ru: "Волейбольный мяч MOLTEN FIV3",
-            en: "Molten FIV3 volleyball",
-        },
-        price: "6000",
-    },
-];
-
-const volleyballExtraBallItems = volleyballExtraBalls;
-
 const fitnessGymItems: {
     file: string;
     hover?: string;
@@ -1404,21 +1372,6 @@ function buildExtraCatalog(lang: Lang) {
             en: "Volleyball sneakers",
         }, lang, "3500", ["40", "41", "42", "43", "44"]),
         ...volleyballShoeExtraProducts(9400, lang),
-        ...volleyballExtraBallItems.map((item, index) => {
-            const photo = encodePhoto(item.file);
-            return {
-                id: 8600 + index,
-                title: item.titles[lang],
-                price: item.price,
-                sizes: ["Standard"],
-                photo,
-                hoverPhoto: photo,
-                category: "Волейбол",
-                subCategory: "Мяч",
-                photoSides: true,
-                openModal: true,
-            };
-        }),
         ...fitnessGymProducts(8700, lang),
         ...fitnessGantelProducts(8800, lang),
         ...fitnessKovrikProducts(8850, lang),

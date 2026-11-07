@@ -256,10 +256,7 @@ export const catalogData: any = {
         ]),
 
         // ВОЛЕЙБОЛ ЖАНА БАСКЕТБОЛ ТОПТОРУ
-        ...generateBalls("Волейбол", "Мяч", "voleibol.basketbol/top", 191, [
-            { img: "1", title: "Волейбол тобу MOLTEN (жашыл, кызыл, ак)", price: "1500" },
-            { img: "2", title: "Волейбол тобу V200W (сары, көк)", price: "1500" },
-            { img: "3", title: "Волейбол тобу MIKASA V300W", price: "6500" },
+        ...generateBalls("Волейбол", "Мяч", "voleibol.basketbol/top", 194, [
             { img: "4", title: "Баскет тобу MOLTEN FIBA BG3800", price: "5000" },
             { img: "5", title: "Баскет тобу WILSON", price: "1500" },
             { img: "6", title: "Баскет тобу BG3180", price: "3000" },
@@ -353,10 +350,7 @@ export const catalogData: any = {
             { img: "m24", title: "Футбольный мяч (Матч)", price: "2000" },
             { img: "m25", title: "Футбольный мяч (Матч)", price: "350" },
         ]),
-        ...generateBalls("Волейбол", "Мяч", "voleibol.basketbol/top", 191, [
-            { img: "1", title: "Волейбольный мяч MOLTEN (зелёный, красный, белый)", price: "1500" },
-            { img: "2", title: "Волейбольный мяч V200W (жёлтый, синий)", price: "1500" },
-            { img: "3", title: "Волейбольный мяч MIKASA V300W", price: "6500" },
+        ...generateBalls("Волейбол", "Мяч", "voleibol.basketbol/top", 194, [
             { img: "4", title: "Баскетбольный мяч MOLTEN FIBA BG3800", price: "5000" },
             { img: "5", title: "Баскетбольный мяч WILSON", price: "1500" },
             { img: "6", title: "Баскетбольный мяч BG3180", price: "3000" },
@@ -449,10 +443,7 @@ export const catalogData: any = {
             { img: "m24", title: "Match football", price: "2000" },
             { img: "m25", title: "Match football", price: "350" },
         ]),
-        ...generateBalls("Волейбол", "Мяч", "voleibol.basketbol/top", 191, [
-            { img: "1", title: "Molten volleyball (green, red, white)", price: "1500" },
-            { img: "2", title: "V200W volleyball (yellow, blue)", price: "1500" },
-            { img: "3", title: "Mikasa V300W volleyball", price: "6500" },
+        ...generateBalls("Волейбол", "Мяч", "voleibol.basketbol/top", 194, [
             { img: "4", title: "Molten FIBA BG3800 basketball", price: "5000" },
             { img: "5", title: "Wilson basketball", price: "1500" },
             { img: "6", title: "BG3180 basketball", price: "3000" },
