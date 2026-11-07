@@ -7,6 +7,7 @@ export default function robots(): MetadataRoute.Robots {
         rules: {
             userAgent: '*',
             allow: '/',
+            disallow: '/volleyball',
         },
         sitemap: 'https://sportic.kg/sitemap.xml',
         host: 'https://sportic.kg',

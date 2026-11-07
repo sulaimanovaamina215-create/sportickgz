@@ -42,7 +42,6 @@ const Footer: React.FC<FooterProps> = ({ setActiveTab }) => {
                             <li><button onClick={() => setActiveTab("about")} className="hover:text-red-500 transition-colors uppercase italic">{t.team}</button></li>
                             <li><button onClick={() => setActiveTab("catalog")} className="hover:text-red-500 transition-colors uppercase italic">{t.catalog}</button></li>
                             <li><button onClick={() => setActiveTab("wholesale")} className="hover:text-red-500 transition-colors uppercase italic">{t.wholesale}</button></li>
-                            <li><a href="/volleyball/" className="hover:text-red-500 transition-colors uppercase italic">{lang === "en" ? "Volleyballs" : lang === "ky" ? "Волейбол топтору" : "Волейбольные мячи"}</a></li>
                         </ul>
                     </div>
 
