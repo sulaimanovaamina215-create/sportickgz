@@ -20,7 +20,7 @@ export const organizationJsonLd = {
             name: "SPORTIC KGZ",
             alternateName: ["SPORTICKGZ", "Sportic", "Sportic KG"],
             url: siteUrl,
-            image: `${siteUrl}/logo1.png`,
+            image: `${siteUrl}/logo-sportic.png`,
             logo: {
                 "@type": "ImageObject",
                 url: `${siteUrl}/logo-mark.png`,
