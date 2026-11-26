@@ -93,7 +93,6 @@ export const fudbolAccessoryItems: AccessoryConfig[] = [
     { file: 'tablo.jpg', title: { ky: 'Оюнчуларды алмаштыруу тактасы (IN / OUT)', ru: 'Табло замены игроков (IN / OUT)', en: 'Player substitution board (IN / OUT)' }, price: '3000' },
     { file: 'photo60.jpg', title: { ky: 'Үстөл таблосу (кызыл / көк упай)', ru: 'Настольное табло (красный / синий счёт)', en: 'Tabletop scoreboard (red / blue score)' }, price: '1500' },
     { file: 'photo61.jpg', title: { ky: 'Спорт таблосу 40×60', ru: 'Спортивное табло 40×60', en: 'Sports scoreboard 40×60' }, price: '2500' },
-    { file: 'photo62.jpg', title: { ky: 'Mikasa колго бүктөлүүчү табло', ru: 'Перекидное табло Mikasa', en: 'Mikasa manual flip scoreboard' }, price: '5000' },
 
     // ——— Торлор ———
     { file: 'photo53.jpg', title: { ky: 'Футбол тору №5 (көк баштыкта)', ru: 'Футбольная сетка №5 (в синей сумке)', en: 'Football net No. 5 (blue bag)' }, price: '5000' },

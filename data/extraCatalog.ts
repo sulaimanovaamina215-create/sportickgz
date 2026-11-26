@@ -497,11 +497,6 @@ const volleyballAccessoryItems: { file: string; titles: Record<Lang, string>; pr
         price: "1500",
     },
     {
-        file: `${va}/photo_5426881214078983052_y.jpg`,
-        titles: { ky: "Оригиналдуу Mikasa таблосу", ru: "Оригинальный табло MIKASA", en: "Original MIKASA scoreboard" },
-        price: "5000",
-    },
-    {
         file: `${va}/photo_5426881214078983984_y.jpg`,
         titles: { ky: "Статуэтка", ru: "Статуэтка", en: "Figurine" },
         price: "350",
