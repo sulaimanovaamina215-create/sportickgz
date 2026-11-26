@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
+import { createPortal } from "react-dom";
 import Image from "next/image";
 import { ChevronLeft, ChevronRight, X } from "lucide-react";
 
@@ -60,7 +61,7 @@ export default function ProductZoomModal({
         return () => window.removeEventListener("keydown", onKey);
     }, [open, onClose, onGalleryStep]);
 
-    if (!open) return null;
+    if (!open || typeof document === "undefined") return null;
 
     const hasGallery = Array.isArray(gallery) && gallery.length > 1;
     const pad = 16;
@@ -86,7 +87,7 @@ export default function ProductZoomModal({
     top = clamp(top, pad, vh - box - pad);
     left = clamp(left, pad, vw - box - pad);
 
-    return (
+    return createPortal(
         <div className="fixed inset-0 z-[90]" onClick={onClose}>
             <div className="absolute inset-0 bg-black/65" />
             <div
@@ -139,6 +140,7 @@ export default function ProductZoomModal({
                     <X size={16} />
                 </button>
             </div>
-        </div>
+        </div>,
+        document.body,
     );
 }
